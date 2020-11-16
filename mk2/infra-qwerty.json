@@ -1,0 +1,259 @@
+[
+  {
+    "name": "infra qwerty",
+    "author": "Eddie T",
+    "notes": "Left hand lower layer for data entry\nTry to make layers double tap to lock or press and hold to lock"
+  },
+  [
+    {
+      "x": 3,
+      "a": 5
+    },
+    "F3\n*\n\n\n\n\n3",
+    {
+      "x": 7
+    },
+    "F8\nplay\n\n\n\n\n8"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 2
+    },
+    "F2\n/\n\n\n\n\n2",
+    {
+      "x": 1
+    },
+    "F4\n-\n\n\n\n\n4",
+    {
+      "x": 5
+    },
+    "F7\nprev\n\n\n\n\n7",
+    {
+      "x": 1
+    },
+    "F9\nstop\n\n\n\n\n9"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 5
+    },
+    "F5\n\n\n\n\n\n5",
+    {
+      "x": 3
+    },
+    "F6\n\n\n\n\n\n6"
+  ],
+  [
+    {
+      "y": -0.875,
+      "a": 7
+    },
+    "`",
+    {
+      "a": 5
+    },
+    "F1\n\n\n\n\n\n1",
+    {
+      "x": 11
+    },
+    "F10\nskip\n\n\n\n\n0",
+    "F11\ndel\n\n\n\n\nbcksp"
+  ],
+  [
+    {
+      "y": -0.375,
+      "x": 3
+    },
+    "{\n8\n\n\n\n\ne",
+    {
+      "x": 7
+    },
+    "pg dn\nvol up\n\n\n\n\ni"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 2
+    },
+    "end\n9\n\n\n\n\nw",
+    {
+      "x": 1
+    },
+    "}\n7\n\n\n\n\nr",
+    {
+      "x": 5
+    },
+    "pg up\nmute\n\n\n\n\nu",
+    {
+      "x": 1
+    },
+    "prt sc\nvol dn\n\n\n\n\no"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 5,
+      "a": 7
+    },
+    "t",
+    {
+      "x": 3
+    },
+    "y"
+  ],
+  [
+    {
+      "y": -0.875
+    },
+    "tab",
+    {
+      "a": 5
+    },
+    "home\ntab\n\n\n\n\nq",
+    {
+      "x": 11
+    },
+    "skr lk\nsleep\n\n\n\n\np",
+    "F12\nins\n\n\n\n\n'"
+  ],
+  [
+    {
+      "y": -0.375,
+      "x": 3
+    },
+    "[\n5\n\n\n\n\nd",
+    {
+      "x": 7
+    },
+    "down\n-\n\n\n\n\nk"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 2
+    },
+    ")\n6\n\n\n\n\ns",
+    {
+      "x": 1
+    },
+    "]\n4\n\n\n\n\nf",
+    {
+      "x": 5
+    },
+    "left\n_\n\n\n\n\nj",
+    {
+      "x": 1
+    },
+    "up\n+\n\n\n\n\nl"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 5
+    },
+    "\n+\n\n\n\n\ng",
+    {
+      "x": 3,
+      "a": 7
+    },
+    "h"
+  ],
+  [
+    {
+      "y": -0.875,
+      "a": 5
+    },
+    "caps\n\n\n\n\n\nesc",
+    "(\n=\n\n\n\n\na",
+    {
+      "x": 11
+    },
+    "right\n=\n\n\n\n\n;",
+    {
+      "a": 7
+    },
+    "enter"
+  ],
+  [
+    {
+      "y": -0.375,
+      "x": 3,
+      "a": 5
+    },
+    "\n2\n\n\n\n\nc",
+    {
+      "x": 7
+    },
+    "\nbrt dn\n\n\n\n\n,"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 2
+    },
+    "\n3\n\n\n\n\nx",
+    {
+      "x": 1
+    },
+    "\n1\n\n\n\n\nv",
+    {
+      "x": 5
+    },
+    "\nbrt up\n\n\n\n\nm",
+    {
+      "x": 1
+    },
+    "\nsetting\n\n\n\n\n."
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 5,
+      "a": 7
+    },
+    "b",
+    {
+      "x": 3
+    },
+    "n"
+  ],
+  [
+    {
+      "y": -0.875
+    },
+    "cmd",
+    {
+      "a": 5
+    },
+    "\nenter\n\n\n\n\nz",
+    {
+      "x": 11
+    },
+    "\ncalc\n\n\n\n\n/",
+    {
+      "a": 7
+    },
+    "|"
+  ],
+  [
+    {
+      "y": 0.125,
+      "x": 3,
+      "a": 5
+    },
+    "\n.\n\n\n\n\nctrl",
+    "\n0\n\n\n\n\nraise",
+    {
+      "a": 7
+    },
+    "shift",
+    {
+      "x": 3
+    },
+    "space",
+    "lower",
+    "alt"
+  ]
+]

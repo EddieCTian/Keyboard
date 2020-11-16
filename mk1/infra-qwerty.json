@@ -1,0 +1,131 @@
+[
+  {
+    "name": "infra qwerty",
+    "author": "Eddie T",
+    "notes": "Left hand lower layer for data entry\nTry to make layers double tap to lock or press and hold to lock"
+  },
+  [
+    {
+      "a": 7
+    },
+    "`",
+    {
+      "a": 5
+    },
+    "F1\n\n\n\n\n\n1",
+    "F2\n/\n\n\n\n\n2",
+    "F3\n*\n\n\n\n\n3",
+    "F4\n-\n\n\n\n\n4",
+    "F5\n\n\n\n\n\n5",
+    {
+      "x": 3
+    },
+    "F6\n\n\n\n\n\n6",
+    "F7\nprev\n\n\n\n\n7",
+    "F8\nplay\n\n\n\n\n8",
+    "F9\nstop\n\n\n\n\n9",
+    "F10\nskip\n\n\n\n\n0",
+    "F11\ndel\n\n\n\n\nbcksp"
+  ],
+  [
+    {
+      "a": 7
+    },
+    "tab",
+    {
+      "a": 5
+    },
+    "home\ntab\n\n\n\n\nq",
+    "end\n9\n\n\n\n\nw",
+    "{\n8\n\n\n\n\ne",
+    "}\n7\n\n\n\n\nr",
+    {
+      "a": 7
+    },
+    "t",
+    {
+      "x": 3
+    },
+    "y",
+    {
+      "a": 5
+    },
+    "pg up\nmute\n\n\n\n\nu",
+    "pg dn\nvol up\n\n\n\n\ni",
+    "prt sc\nvol dn\n\n\n\n\no",
+    "skr lk\nsleep\n\n\n\n\np",
+    "F12\nins\n\n\n\n\n'"
+  ],
+  [
+    "caps\n\n\n\n\n\nesc",
+    "(\n=\n\n\n\n\na",
+    ")\n6\n\n\n\n\ns",
+    "[\n5\n\n\n\n\nd",
+    "]\n4\n\n\n\n\nf",
+    "\n+\n\n\n\n\ng",
+    {
+      "x": 3,
+      "a": 7
+    },
+    "h",
+    {
+      "a": 5
+    },
+    "left\n_\n\n\n\n\nj",
+    "down\n-\n\n\n\n\nk",
+    "up\n+\n\n\n\n\nl",
+    "right\n=\n\n\n\n\n;",
+    {
+      "a": 7
+    },
+    "enter"
+  ],
+  [
+    "cmd",
+    {
+      "a": 5
+    },
+    "\nenter\n\n\n\n\nz",
+    "\n3\n\n\n\n\nx",
+    "\n2\n\n\n\n\nc",
+    "\n1\n\n\n\n\nv",
+    {
+      "a": 7
+    },
+    "b",
+    {
+      "x": 3
+    },
+    "n",
+    {
+      "a": 5
+    },
+    "\nbrt up\n\n\n\n\nm",
+    "\nbrt dn\n\n\n\n\n,",
+    "\nsetting\n\n\n\n\n.",
+    "\ncalc\n\n\n\n\n/",
+    {
+      "a": 7
+    },
+    "|"
+  ],
+  [
+    {
+      "y": 0.5,
+      "x": 4,
+      "a": 5
+    },
+    "\n.\n\n\n\n\nctrl",
+    "\n0\n\n\n\n\nraise",
+    {
+      "a": 7
+    },
+    "shift",
+    {
+      "x": 1
+    },
+    "space",
+    "lower",
+    "alt"
+  ]
+]

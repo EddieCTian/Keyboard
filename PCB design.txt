@@ -1,0 +1,35 @@
+1. draw schematic (circuit diagram)
+
+2. label all the nodes and eda (altium/eagle) knows they are connected (net
+labels) and that makes a net. 
+
+3. make spreadsheet for BoM 
+
+4. make a footprint (representation of a part on pcb) which is a combination
+of holes, pads (of copper) and solder mask (ink on pcb) 
+
+4.1 . for footprints and schematic symbols, download/make yourself. (better to
+make yourself so you don't get wrecked by similar parts)
+
+5. match parts to footprint in eda and compile. 
+
+6. make a layout for parts-footprints are imported and lines show what are
+connected according to nets, then arrange everything and put in traces. (Try
+not to use auto-routing tools)
+
+7. then order and solder (bringing up the pcb) and test
+
+
+stuff to google:
+2 layer pcb/multilayer pcb
+
+via- hole through board w copper around the hole (not for soldering, just for
+tunneling through board)
+
+ground/power planes
+
+trace width-depending on amperage and other stuff
+
+keep analog and digital signals separate
+
+

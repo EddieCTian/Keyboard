@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\qmk_firmware\\keyboards\\keebio\\iris"
+		},
+		{
+			"path": "Old infra qmk repo"
+		},
+		{
+			"path": "..\\..\\..\\qmk_firmware\\keyboards\\handwired\\infra"
+		}
+	],
+	"settings": {}
+}
